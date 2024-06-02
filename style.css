@@ -4,3 +4,14 @@ h1 {
 body {
   background: plum;
 }
+footer {
+  text-align: center;
+}
+footer a {
+  color: navajowhite;
+  margin: 30px auto;
+  text-decoration: none;
+}
+img {
+  display: block;
+}
